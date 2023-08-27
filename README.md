@@ -2,9 +2,14 @@
 python -m flask run 
 # Đẹp vscode 
 alt shift
-Rungit 
+# Run git 
 git init 
 git status
 git add . 
 git commit -m "Noidung"
 coppy caulenh 
+# Edit code and push 
+git status 
+git add . 
+git commit -m "Noidung"  
+git push 
