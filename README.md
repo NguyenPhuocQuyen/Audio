@@ -5,6 +5,8 @@ alt shift
 # Run git 
 git init 
 git status
+git branch -M main
+git status
 git add . 
 git commit -m "Noidung"
 coppy caulenh 
