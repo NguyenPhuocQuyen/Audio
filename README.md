@@ -5,4 +5,6 @@ alt shift
 Rungit 
 git init 
 git status
-git add 
+git add . 
+git commit -m "Noidung"
+coppy caulenh 
