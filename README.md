@@ -9,7 +9,7 @@ git branch -M main
 git status
 git add . 
 git commit -m "Noidung"
-coppy caulenh 
+coppy cau lenh 
 # Edit code and push 
 git status 
 git add . 
